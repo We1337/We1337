@@ -34,7 +34,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Css-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=We1337&theme=blue-green)
