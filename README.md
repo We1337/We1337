@@ -49,14 +49,6 @@ me.say_hi()
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
 
-## 📈 GitHub Statistics
-<p align="center">
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=We1337&hide_border=true&theme=nightowl" />
-</p>
-<p align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=We1337&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=We1337&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-</p>
-
 ## 👨‍💻 Office 
 
 ![MS Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -72,6 +64,14 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=We1337&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 GitHub Statistics
+<p align="center">
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=We1337&hide_border=true&theme=nightowl" />
+</p>
+<p align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=We1337&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=We1337&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+</p>
 
 ## 👨 Social 
 
