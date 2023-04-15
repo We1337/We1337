@@ -24,8 +24,6 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2050%20mins-blue)
-
 ## 🔧 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
