@@ -66,10 +66,10 @@ me.say_hi()
 ## 📈 GitHub Statistics
 
 <p align="center">
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=We1337&show_icons=true&count_private=true&custom_title=My%20GitHub%20stats&bg_color=30,e96443,904e95&icon_color=fafafa&text_color=fafafa&title_color=fafafa&border_color=fafafa&border_radius=14&include_all_commits=true&line_height=30" />
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=We1337&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
 </p>
 <p align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=We1337&show_icons=true&count_private=true&custom_title=My%20GitHub%20stats&bg_color=30,e96443,904e95&icon_color=fafafa&text_color=fafafa&title_color=fafafa&border_color=fafafa&border_radius=14&include_all_commits=true&line_height=20" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=We1337&show_icons=true&count_private=true&custom_title=My%20GitHub%20stats&bg_color=30,e96443,904e95&icon_color=fafafa&text_color=fafafa&title_color=fafafa&border_color=fafafa&border_radius=14&include_all_commits=true&line_height=20" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=We1337&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=We1337&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
 </p>
 
 ## 👨 Social
