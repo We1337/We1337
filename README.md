@@ -66,6 +66,7 @@ me.say_hi()
 [![trophy](https://github-profile-trophy.vercel.app/?username=We1337&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 GitHub Statistics
+
 <p align="center">
     <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=We1337&hide_border=true&theme=nightowl" />
 </p>
@@ -73,13 +74,11 @@ me.say_hi()
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=We1337&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=We1337&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
 </p>
 
-## 👨 Social 
+## 👨 Social
 
-![We_1337](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+<a href="https://twitter.com/We_1337"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-## 📱 Contact 
+## 📱 Contact
 
-![We1337#6751](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-
-
-
+<a href="https://discord.com/users/1086690859539501116"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:githubdevice@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
