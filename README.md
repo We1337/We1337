@@ -1,4 +1,4 @@
-# Hi there 👋
+# What's up 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=We1337)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/We1337)
