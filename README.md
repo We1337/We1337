@@ -8,7 +8,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class SoftwareEngineer:
 
     def __init__(self):
