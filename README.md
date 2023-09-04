@@ -5,7 +5,6 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=We1337)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/We1337)
 
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -62,7 +61,6 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=We1337&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## 📈 GitHub Statistics
 
