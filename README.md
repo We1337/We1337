@@ -1,6 +1,6 @@
 # What's up 👋
 
-[![Example](https://github-stats-alpha.vercel.app/api?username=We1337&cc=000&tc=fff&ic=fff&bc=000 "Example")](https://github-stats-alpha.vercel.app/api?username=We1337&cc=000&tc=fff&ic=fff&bc=000 "Example")
+[![Example](https://github-stats-alpha.vercel.app/api?username=We1337&cc=000&tc=fff&ic=fff&bc=000)](https://github-stats-alpha.vercel.app/api?username=We1337&cc=000&tc=fff&ic=fff&bc=000)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=We1337)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/We1337)
