@@ -67,7 +67,6 @@ me.say_hi()
 <p align="center">
     <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=We1337&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=We1337&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
-    <img height="137px" src="https://codestats-readme.avior.me/api?username=We1337&show_icons=true&theme=nightowl" />
 </p>
 
 ## 👨 Social
