@@ -23,6 +23,8 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=We1337&bg_color=000000&color=ffffff&line=d00bc3&point=660000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🔧 Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,go,html,java,js,kotlin,mysql,perl,php,powershell,py,ruby)](https://skillicons.dev)
