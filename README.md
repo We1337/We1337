@@ -25,7 +25,7 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-## 🔧 Technologies & Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,go,html,java,js,kotlin,mysql,perl,php,powershell,py,ruby)](https://skillicons.dev)
 
