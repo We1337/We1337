@@ -5,6 +5,8 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
+<img src="https://i.gifer.com/4P4O.gif">
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2We1337&label=total-visitors-&labelColor=%23ba68c8&countColor=%23697689)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Heart-Eyes.png" alt="Smiling Face with Heart-Eyes" width="25" height="25" />
 
