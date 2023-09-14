@@ -1,6 +1,9 @@
 # What's up 👋
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-[![Example](https://github-stats-alpha.vercel.app/api?username=We1337&cc=000&tc=fff&ic=fff&bc=000)](https://github-stats-alpha.vercel.app/api?username=We1337&cc=000&tc=fff&ic=fff&bc=000)
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=We1337)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/We1337)
@@ -77,3 +80,9 @@ me.say_hi()
 
 <a href="https://discord.com/users/1086690859539501116"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="mailto:githubdevice@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
