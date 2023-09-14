@@ -6,8 +6,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2We1337&label=total-visitors&labelColor=%23ba68c8&countColor=%23697689)
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2We1337&label=today-visitors&labelColor=%23697689&countColor=%23ba68c8)
-
 
 ```python
 #!/usr/bin/python
