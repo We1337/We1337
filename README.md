@@ -67,10 +67,18 @@ me.say_hi()
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=We1337&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=We1337&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
-</p>
+<table align="center">
+    <tr>
+        <td width="50%" align="center">
+            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=We1337&show_icons=true&hide_border=true&count_private=true&line_height=21&theme=nightowl" />
+            <br></br>
+            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=We1337&theme=dark&hide_border=true&line_height=21&theme=nightowl" />
+        </td>
+        <td width="50%" align="center">
+            <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=We1337&hide_border=true&no-bg=true&no-frame=true&langs_count=10&line_height=21&theme=nightowl"/>
+        </td>
+    </tr>
+</table>
 
 ## 👨 Social
 
