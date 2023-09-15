@@ -70,12 +70,12 @@ me.say_hi()
 <table align="center">
     <tr>
         <td width="50%" align="center">
-            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=We1337&show_icons=true&hide_border=true&count_private=true&line_height=21&theme=nightowl" />
+            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=We1337&show_icons=true&hide_border=true&count_private=true&line_height=41&theme=nightowl" />
             <br></br>
-            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=We1337&theme=dark&hide_border=true&line_height=21&theme=nightowl" />
+            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=We1337&theme=dark&hide_border=true&line_height=41&theme=nightowl" />
         </td>
         <td width="50%" align="center">
-            <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=We1337&hide_border=true&no-bg=true&no-frame=true&langs_count=10&line_height=21&theme=nightowl"/>
+            <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=We1337&hide_border=true&no-bg=true&no-frame=true&langs_count=10&layout=default&theme=nightowl"/>
         </td>
     </tr>
 </table>
