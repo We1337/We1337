@@ -1,7 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/4f051c0f-3094-4938-a7c1-8bf148762d5d.svg)](https://wakatime.com/@4f051c0f-3094-4938-a7c1-8bf148762d5d)
 
-<figure><embed src="https://wakatime.com/share/@We1337/16332a59-f169-4c7b-8285-9f786152ad1f.svg"></embed></figure>
-
 <figure><embed src="https://wakatime.com/share/@We1337/8e6f996d-d21d-40cf-8e58-c29af5706b38.svg"></embed></figure>
 
 # What's up <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
@@ -31,6 +29,9 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> Technologies & Tools
 
