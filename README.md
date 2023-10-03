@@ -1,6 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/4f051c0f-3094-4938-a7c1-8bf148762d5d.svg)](https://wakatime.com/@4f051c0f-3094-4938-a7c1-8bf148762d5d)
 
-
 # What's up <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -28,10 +27,6 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-
-<!--START_SECTION:waka-->
-    SHOW_TOTAL_CODE_TIME
-<!--END_SECTION:waka-->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> Technologies & Tools
 
