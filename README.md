@@ -52,37 +52,3 @@ me.say_hi()
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![VS code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=We1337&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Decreasing.png" alt="Chart Decreasing" width="25" height="25" /> GitHub Statistics
-
-<table align="center">
-    <tr>
-        <td width="50%" align="center">
-            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=We1337&show_icons=true&hide_border=true&count_private=true&line_height=41&theme=nightowl" />
-            <br></br>
-            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=We1337&theme=dark&hide_border=true&line_height=41&theme=nightowl" />
-        </td>
-        <td width="50%" align="center">
-            <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=We1337&hide_border=true&no-bg=true&no-frame=true&langs_count=10&layout=default&theme=nightowl"/>
-        </td>
-    </tr>
-</table>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite Antenna" width="25" height="25" /> Social
-
-<a href="https://twitter.com/We_1337"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Lowered%20Flag.png" alt="Open Mailbox with Lowered Flag" width="25" height="25" /> Contact
-
-<a href="https://discord.com/users/1086690859539501116"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="mailto:githubdevice@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
-
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
