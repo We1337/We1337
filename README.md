@@ -1,14 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/4f051c0f-3094-4938-a7c1-8bf148762d5d.svg)](https://wakatime.com/@4f051c0f-3094-4938-a7c1-8bf148762d5d)
 
 # What's up <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2We1337&label=total-visitors-&labelColor=%23ba68c8&countColor=%23697689)
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Heart-Eyes.png" alt="Smiling Face with Heart-Eyes" width="25" height="25" />
 
 ```python
 #!/usr/bin/python
@@ -27,8 +19,6 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> Technologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,css,go,html,java,js,kotlin,mysql,perl,php,powershell,py,ruby)](https://skillicons.dev)
 
