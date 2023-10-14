@@ -2,6 +2,8 @@
 
 # What's up <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
+<img src="https://wakatime.com/share/@We1337/c3c609f2-bd11-458b-b6b0-3e18065bdcd1.svg">
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
