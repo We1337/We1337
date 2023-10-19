@@ -4,6 +4,8 @@
 
 <img src="https://wakatime.com/share/@We1337/c3c609f2-bd11-458b-b6b0-3e18065bdcd1.svg">
 
+![image](https://github.com/We1337/We1337/assets/128417175/18611076-06c2-4244-ace8-3932ac620fe0)
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
